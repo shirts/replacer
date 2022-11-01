@@ -84,6 +84,8 @@ fn main() {
                   replacement.clear();
                   break;
                 }
+              } else {
+                replacement.clear();
               }
             }
           },
