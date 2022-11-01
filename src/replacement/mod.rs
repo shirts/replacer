@@ -31,7 +31,7 @@ impl Replacements {
   \"replacements\":[
     {
       \"from\":\"foo\",\"to\":\"bar\",\"matches\":\"\"
-    },
+    }
   ]
 }";
 
